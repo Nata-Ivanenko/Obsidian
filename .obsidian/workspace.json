@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gjkjgkjgn.md",
+                "file": "Работа/gjkjgkjgn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gjkjgkjgn.md",
+                "file": "Работа/gjkjgkjgn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gjkjgkjgn.md",
+                "file": "Работа/gjkjgkjgn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gjkjgkjgn.md"
+                "file": "Работа/gjkjgkjgn.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "dee15cbc5b00f32c",
+  "active": "242e764ec14212c1",
   "lastOpenFiles": [
-    "gjkjgkjgn.md"
+    "Работа",
+    "Работа/gjkjgkjgn.md"
   ]
 }
